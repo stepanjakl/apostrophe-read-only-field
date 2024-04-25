@@ -50,6 +50,8 @@ require('apostrophe')({
 });
 ```
 
+<br>
+
 Then, easily add the field type to any module that accepts `fields` property. The schema field object accepts optional parameters such as `copyToClipboard`, `openInNewTab` and `openInNewTabPrepend`. See the example below:
 
 ```js
