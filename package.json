@@ -1,0 +1,35 @@
+{
+    "name": "@stepanjakl/apostrophe-read-only-field",
+    "version": "0.0.0",
+    "description": "Read-Only Schema Field Type For ApostropheCMS",
+    "keywords": [
+        "apostrophe",
+        "apostrophecms"
+    ],
+    "homepage": "https://github.com/stepanjakl/aapostrophe-read-only-field#readme",
+    "bugs": {
+        "url": "https://github.com/stepanjakl/aapostrophe-read-only-field/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stepanjakl/aapostrophe-read-only-field.git"
+    },
+    "license": "MIT",
+    "author": "Štěpán Jákl",
+    "main": "index.js",
+    "dependencies": {
+        "eslint": "^8.x.x",
+        "eslint-config-apostrophe": "^4.3.0",
+        "eslint-config-standard": "^17.1.0",
+        "eslint-plugin-import": "^2.29.1",
+        "eslint-plugin-mocha": "^10.4.3",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^6.1.1",
+        "eslint-plugin-vue": "^9.25.0",
+        "stylelint": "^15.x.x",
+        "stylelint-config-apostrophe": "^3.0.2"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
