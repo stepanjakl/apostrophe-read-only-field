@@ -12,7 +12,6 @@ module.exports = {
     methods(self) {
         return {
             addReadOnlyFieldType() {
-                console.log('-- addReadOnlyFieldType');
                 self.apos.schema.addFieldType({
                     name: 'readOnly',
                     convert: self.convertInput,
