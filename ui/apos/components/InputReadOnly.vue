@@ -61,8 +61,8 @@
 <script>
 import AposInputMixin from 'Modules/@apostrophecms/schema/mixins/AposInputMixin'
 
-import ContentCopyIcon from 'vue-material-design-icons/ContentCopy.vue'
-import OpenInNewIcon from 'vue-material-design-icons/OpenInNew.vue'
+import ContentCopyIcon from '@apostrophecms/vue-material-design-icons/ContentCopy.vue'
+import OpenInNewIcon from '@apostrophecms/vue-material-design-icons/OpenInNew.vue'
 
 export default {
     name: 'InputReadOnly',
