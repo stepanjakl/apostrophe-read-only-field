@@ -1,6 +1,6 @@
 {
     "name": "@stepanjakl/apostrophe-read-only-field",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Read-Only Schema Field Type For ApostropheCMS",
     "keywords": [
         "apostrophe",

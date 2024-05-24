@@ -27,7 +27,7 @@ This module adds a schema field type designed solely for displaying relevant dat
 
 <br>
 
-**This module is used primarily in Apostrophe Stripe packages such as [stripe-checkout](https://github.com/stepanjakl/apostrophe-stripe-checkout) or [stripe-products](https://github.com/stepanjakl/apostrophe-stripe-products).**
+**This module is used primarily in Apostrophe Stripe packages such as [`stripe-checkout`](https://github.com/stepanjakl/apostrophe-stripe-checkout) or [`stripe-products`](https://github.com/stepanjakl/apostrophe-stripe-products).**
 
 <br>
 
